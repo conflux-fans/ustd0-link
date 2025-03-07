@@ -6,37 +6,37 @@
   "learn-more-link": "",
   "earn": [
     {
-      "icon": "Swappi",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Swappi.png",
       "name": "Swappi",
       "link": "https://swappi.io/"
     },
     {
-      "icon": "Meson",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Meson.png",
       "name": "Meson",
       "link": "https://meson.fi/"
     },
     {
-      "icon": "Ethereum",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Ethereum.png",
       "name": "Ethereum",
       "link": "https://ethereum.org/"
     },
     {
-      "icon": "BNB",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/BNB.png",
       "name": "BNB Smart Chain",
       "link": "https://www.binance.com/en/smart-chain"
     },
     {
-      "icon": "cBridge",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/cBridge.png",
       "name": "cBridge",
       "link": "https://cbridge.celer.network/"
     },
     {
-      "icon": "Scroll",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Scroll.png",
       "name": "Scroll",
       "link": "https://scroll.io/"
     },
     {
-      "icon": "OG",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/0G.png",
       "name": "0G",
       "link": "https://0g.ai/"
     }
